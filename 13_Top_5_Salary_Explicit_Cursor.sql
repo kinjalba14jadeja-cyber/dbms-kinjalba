@@ -1,5 +1,5 @@
 -- PROGRAM 13: Top 5 Highest Salaries
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
